@@ -92,6 +92,8 @@ Welcome to my GitHub portfolio! I'm a passionate, certified, and multi-skilled p
 - **GitHub**: [github.com/Sibongumenzi-Nkosi](https://github.com/Sibongumenzi-Nkosi)
   
 - **Email**: csibongumenzi@gmail.com
+  
+- **TikTok**: [tiktok.com/@sibongumenzinkosi?_t=ZM-8vmx1yFDw2B&_r=1](https://www.tiktok.com/@sibongumenzinkosi?_t=ZM-8vmx35s3zk5&_r=1)
 
 ---
 
