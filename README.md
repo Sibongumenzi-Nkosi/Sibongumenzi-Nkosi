@@ -76,6 +76,13 @@ Welcome to my GitHub portfolio! I'm a passionate, certified, and multi-skilled p
 **Outcome**: Built a bot for internal knowledgebase Q&A  
 **Repo**: []
 
+###Project5 - Smart Security System: Real-Time Object Detection for Surveillance
+
+**skills**: YOLOv8, OpenCV, Python, PyTorch, Docker, FastAPI, Computer vision, API, Object detection, Time Processing, Deployment
+
+**Outcome**: Detect people/objects in CCTV footage (or webcam), flag unusual movement, optionally send alert (can simulate this part)
+**Repo**: []
+
 ---
 
 ## 🏅 Qualifications and Certifications
