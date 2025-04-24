@@ -6,8 +6,9 @@ Welcome to my GitHub portfolio! I'm a passionate, certified, and multi-skilled p
 
 ## 🚀 About Me
 - **Microsoft Certified Fabric Data Engineer Associate**
-- Strong in Python, SQL, Power BI, Tableau, PySpark, Azure, and Machine Learning, Excel,Deep learning.
+- Strong in Python, SQL, Power BI, Tableau, PySpark, Azure, Machine Learning, Excel and Deep learning.
 - Skilled in building end-to-end data pipelines, analytics dashboards, and AI models
+  
 - Domain focus: **Finance & Banking, Retail & E-commerce**
 - Eager to solve real-world problems using data and intelligence
 
@@ -37,33 +38,41 @@ Welcome to my GitHub portfolio! I'm a passionate, certified, and multi-skilled p
 
 ## 💼 Portfolio Projects
 
-### 🔎 Project – Retail Performance Insights (Excel, Power BI)
+### 🔎 Project1 – Retail Performance Insights (Excel, Power BI)
 **Goal**: Analyze sales, profit, and customer behavior across regions  
-**Skills**: Excel (Power Query, PivotTables), Power BI (DAX, KPIs, Dashboards)  
+
+**Skills**: Excel (Power Query, PivotTables), Power BI (DAX, KPIs, Dashboards) 
+
 **Outcome**: Built executive dashboards highlighting growth trends, low-performing regions, and product strategies  
 **Repo**: []
 
 ---
 
-### 📊 Project – Credit Risk Prediction Model
-**Goal**: Predict loan default using customer financial history  
+### 📊 Project2 – Credit Risk Prediction Model
+**Goal**: Predict loan default using customer financial history
+
 **Skills**: Python, Pandas, Scikit-learn, Seaborn, XGBoost, SHAP, Statistics  
+
 **Outcome**: Achieved 93% model accuracy with feature importance explanation using SHAP  
 **Repo**: []
 
 ---
 
-### 🏗️ Project – End-to-End Data Pipeline with Azure
-**Goal**: Build a real-time streaming pipeline for sales data  
-**Skills**: Azure Data Factory, Kafka, Spark, PySpark, Data Lakes, Snowflake  
+### 🏗️ Project3 – End-to-End Data Pipeline with Azure
+**Goal**: Build a real-time streaming pipeline for sales data
+
+**Skills**: Azure Data Factory, Kafka, Spark, PySpark, Data Lakes, Snowflake
+
 **Outcome**: Designed scalable ETL pipeline with 98% reliability for near real-time ingestion  
 **Repo**: []
 
 ---
 
-### 🧠 Project – Smart Chatbot with RAG + LLMs
-**Goal**: Build a contextual chatbot using LangChain + OpenAI + Pinecone  
-**Skills**: Transformers, LLMs, FastAPI, Vector Embeddings, NLP, Docker, Streamlit  
+### 🧠 Project4 – Smart Chatbot with RAG + LLMs
+**Goal**: Build a contextual chatbot using LangChain + OpenAI + Pinecone
+
+**Skills**: Transformers, LLMs, FastAPI, Vector Embeddings, NLP, Docker, Streamlit 
+
 **Outcome**: Built a ChatGPT-style bot for internal knowledgebase Q&A  
 **Repo**: []
 
