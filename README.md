@@ -83,6 +83,16 @@ Welcome to my GitHub portfolio! I'm a passionate, certified, and multi-skilled p
 **Outcome**: Detect people/objects in CCTV footage (or webcam), flag unusual movement, optionally send alert (can simulate this part)
 **Repo**: []
 
+## 👀 Project5 – CCTV-Like Object Detection with YOLOv8 (Computer Vision)
+
+**Goal**: Implement a real-time object detection system similar to CCTV surveillance, capable of detecting and tracking objects in a live video feed using YOLOv8 deep learning model.
+
+**Skills**: Python, OpenCV, YOLOv8, PyTorch, Real-time streaming, SQLite, Docker.
+
+**Outcome**: Built a real-time object detection system that mimics CCTV functionality. The system detects multiple objects (e.g., people, vehicles) in a video stream and triggers alerts when predefined objects are detected. It logs detected objects into a database and can send email alerts for suspicious activity. This project was containerized using Docker for easy deployment.
+
+**Repo**: []
+
 ---
 
 ## 🏅 Qualifications and Certifications
