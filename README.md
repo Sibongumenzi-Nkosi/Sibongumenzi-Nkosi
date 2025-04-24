@@ -73,7 +73,7 @@ Welcome to my GitHub portfolio! I'm a passionate, certified, and multi-skilled p
 
 **Skills**: Transformers, LLMs, FastAPI, Vector Embeddings, NLP, Docker, Streamlit 
 
-**Outcome**: Built a ChatGPT-style bot for internal knowledgebase Q&A  
+**Outcome**: Built a bot for internal knowledgebase Q&A  
 **Repo**: []
 
 ---
@@ -95,5 +95,5 @@ Welcome to my GitHub portfolio! I'm a passionate, certified, and multi-skilled p
 
 ---
 
-> I invest in TimE and stay focused every time.
+> I invest in Time and stay focused every time.
 > — Sibongumenzi Nkosi
