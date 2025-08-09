@@ -111,3 +111,77 @@ Welcome to my GitHub portfolio! I'm a passionate, certified, and multi-skilled p
 
 > I invest in Time and stay focused every time.
 > — Sibongumenzi Nkosi
+>
+> # Hi, I'm Sibongumenzi Nkosi — Data Engineer & Analyst
+
+Welcome to my GitHub portfolio!  
+I’m a **Microsoft-certified** data professional passionate about building scalable data solutions, extracting actionable insights, and driving decision-making with **analytics and AI**.
+
+---
+
+## 🚀 About Me
+- **Microsoft Certified: Power BI Data Analyst Associate**  
+- Strong expertise in **Python, SQL, Power BI, PySpark, Azure, and Machine Learning**  
+- Skilled in building **end-to-end data pipelines**, interactive **analytics dashboards**, and **predictive models**  
+- **Domain focus**: Finance, Banking, and Retail  
+- Passionate about solving **real-world business problems** through **data intelligence**  
+
+---
+
+## 🧠 Skills
+
+| **Category**        | **Technologies / Tools** |
+|---------------------|--------------------------|
+| **Programming**     | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Java, C++ |
+| **Data Analysis**   | Excel (XLOOKUP, PivotTables, Power Query, Macros), Power BI (DAX, KPIs) |
+| **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
+| **Statistics**      | Hypothesis Testing, A/B Testing, Descriptive & Inferential Statistics |
+| **Big Data & Cloud**| Azure Blob Storage, PySpark, Snowflake, Azure Synapse, Databricks, ADF |
+| **Data Engineering**| Kafka, Apache Airflow, dbt, ETL Pipelines |
+| **DevOps**          | Docker, Git & GitHub Actions |
+| **Soft Skills**     | Problem-Solving, Attention to Detail, Data Storytelling |
+
+---
+
+## 💼 Portfolio Projects
+
+### 1️⃣ Retail Performance Insights (Excel, Power BI)
+**Goal**: Analyze sales, profit, and customer behavior across regions  
+**Tools**: Excel (Power Query, PivotTables), Power BI (DAX, KPIs, Dashboards)  
+**Outcome**: Built an executive dashboard revealing growth trends, underperforming regions, and strategic opportunities  
+📂 **Repo**: [Coming Soon]()
+
+---
+
+### 2️⃣ Credit Risk Prediction Model
+**Goal**: Predict loan defaults using customer financial history  
+**Tools**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statistics  
+**Outcome**: Achieved **93% accuracy** in predicting high-risk loan applicants  
+📂 **Repo**: [Coming Soon]()
+
+---
+
+### 3️⃣ End-to-End Real-Time Data Pipeline (Azure)
+**Goal**: Build a real-time streaming pipeline for sales data ingestion and analytics  
+**Tools**: Azure Data Factory, Kafka, PySpark, Data Lake, Snowflake  
+**Outcome**: Designed a **scalable ETL pipeline** with **98% reliability** for near real-time processing  
+📂 **Repo**: [Coming Soon]()
+
+---
+
+## 🏅 Certifications & Education
+- **Microsoft Certified**: Power BI Data Analyst Associate  
+- **BSc in Computer Science & Statistics** *(in progress)*
+
+---
+
+## 🌍 Let’s Connect
+- **LinkedIn**: [linkedin.com/in/sibongumenzi-nkosi-78805435b](https://www.linkedin.com/in/sibongumenzi-nkosi-78805435b)  
+- **GitHub**: [github.com/Sibongumenzi-Nkosi](https://github.com/Sibongumenzi-Nkosi)  
+- **Email**: csibongumenzi@gmail.com  
+- **TikTok**: [tiktok.com/@sibongumenzinkosi](https://www.tiktok.com/@sibongumenzinkosi)
+
+---
+
+> *“I invest in time and stay focused every time.”* — **Sibongumenzi Nkosi**
+
