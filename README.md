@@ -87,7 +87,6 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 
 ## 🏅 Certifications & Education
 - **Microsoft Certified**: Power BI Data Analyst Associate  
-- **BSc in Computer Science & Statistics** *(in progress)*
 
 ---
 
