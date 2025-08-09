@@ -31,10 +31,10 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 
 ## 💼 Portfolio Projects
 
-### 1️⃣ Sales & Customer Analytics Dashboard (SQL, Power BI)
+### 1️⃣ Sales & Customer Analytics Dashboard (SQL, Excel, Power BI)
 **Goal**: Build an analytical reporting system for sales performance and customer behavior.  
-**Skills**: SQL (CTEs, JOINS, window functions, CASE), query optimization, Power BI (KPIs, dashboards).  
-**Tools**: SQL Server, Power BI, GitHub Actions (CI/CD).  
+**Skills**: SQL (CTEs, JOINS, window functions, CASE), query optimization,Excel(Power Query, XLOOKUP, Macros, PivotTables) , Power BI (DAX, KPIs, dashboards).  
+**Tools**: SQL Server, Excel, Power BI, GitHub Actions (CI/CD).  
 **Outcome**: Created automated dashboards showing revenue trends, customer churn, and top-performing products.  
 📂 **Repo**: [Coming Soon]()
 
@@ -52,7 +52,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 ### 3️⃣ Real-Time Data Reporting with SQL + Kafka & Snowflake
 **Goal**: Stream real-time sales data and query for live dashboards.  
 **Skills**: Kafka streaming ingestion, Snowflake SQL, incremental updates, Power BI integration.  
-**Tools**: Apache Kafka, Snowflake, Power BI.  
+**Tools**: Apache Kafka, Snowflake, Git for version control, Power BI.  
 **Outcome**: Near real-time analytics dashboard with sub-second refresh using event-driven architecture.  
 📂 **Repo**: [Coming Soon]()
 
@@ -67,16 +67,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 
 ---
 
-### 5️⃣ Retail Performance Insights (Excel, Power BI)
-**Goal**: Analyze sales, profit, and customer behavior across regions.  
-**Skills**: Excel (Power Query, XLOOKUP, Macros, PivotTables), Power BI (DAX, KPIs, dashboards).  
-**Tools**: Excel, Power BI, Git for version control.  
-**Outcome**: Built executive dashboard revealing growth trends and underperforming regions.  
-📂 **Repo**: [Coming Soon]()
-
----
-
-### 6️⃣ Credit Risk Prediction Model (Data Engineering + ML)
+### 5️⃣ Credit Risk Prediction Model (Data Engineering + ML)
 **Goal**: Developed an end-to-end pipeline for credit risk prediction, including data cleaning, feature engineering, model deployment, and monitoring.  
 **Skills**: Python (Pandas, NumPy), SQL for data prep, Scikit-learn (modeling), Docker (deployment), CI/CD automation and visualizing data.  
 **Tools**: Python, Scikit-learn, PostgreSQL, Docker, GitHub Actions, Matplotlib, Searborn.  
