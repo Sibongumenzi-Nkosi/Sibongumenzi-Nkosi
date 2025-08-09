@@ -43,7 +43,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 ### 2️⃣ Data Cleaning & Transformation in SQL
 **Goal**: Convert messy CSV files into a clean snowflake schema for analytics.  
 **Skills**: SQL (data cleaning, normalization, deduplication), dbt transformations, Airflow orchestration.  
-**Tools**: PostgreSQL, dbt, Apache Airflow, Docker.  
+**Tools**: PostgreSQL, dbt, Apache Airflow, Git for version control.  
 **Outcome**: Fully automated ELT pipeline from raw CSVs to reporting-ready tables.  
 📂 **Repo**: [Coming Soon]()
 
@@ -52,7 +52,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 ### 3️⃣ Real-Time Data Reporting with SQL + Kafka & Snowflake
 **Goal**: Stream real-time sales data and query for live dashboards.  
 **Skills**: Kafka streaming ingestion, Snowflake SQL, incremental updates, Power BI integration.  
-**Tools**: Apache Kafka, Snowflake, Git for version control, Power BI.  
+**Tools**: Apache Kafka, Snowflake, Power BI.  
 **Outcome**: Near real-time analytics dashboard with sub-second refresh using event-driven architecture.  
 📂 **Repo**: [Coming Soon]()
 
