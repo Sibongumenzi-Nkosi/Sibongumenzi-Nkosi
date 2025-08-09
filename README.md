@@ -43,7 +43,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 ### 2️⃣ Data Cleaning & Transformation in SQL
 **Goal**: Convert messy CSV files into a clean snowflake schema for analytics.  
 **Skills**: SQL (data cleaning, normalization, deduplication), dbt transformations, Airflow orchestration.  
-**Tools**: PostgreSQL, dbt, Apache Airflow, Docker.  
+**Tools**: PostgreSQL, dbt, Apache Airflow, Docker, Power BI.  
 **Outcome**: Fully automated ELT pipeline from raw CSVs to reporting-ready tables.  
 📂 **Repo**: [Coming Soon]()
 
@@ -52,7 +52,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 ### 3️⃣ Real-Time Data Reporting with SQL + Kafka & Snowflake
 **Goal**: Stream real-time sales data and query for live dashboards.  
 **Skills**: Kafka streaming ingestion, Snowflake SQL, incremental updates, Power BI integration.  
-**Tools**: Apache Kafka, Snowflake, Power BI, Docker, Airflow.  
+**Tools**: Apache Kafka, Snowflake, Power BI.  
 **Outcome**: Near real-time analytics dashboard with sub-second refresh using event-driven architecture.  
 📂 **Repo**: [Coming Soon]()
 
@@ -78,8 +78,8 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 
 ### 6️⃣ Credit Risk Prediction Model (Data Engineering + ML)
 **Goal**: Developed an end-to-end pipeline for credit risk prediction, including data cleaning, feature engineering, model deployment, and monitoring.  
-**Skills**: Python (Pandas, NumPy), SQL for data prep, Scikit-learn (modeling), Docker (deployment), CI/CD automation.  
-**Tools**: Python, Scikit-learn, PostgreSQL, Docker, GitHub Actions.  
+**Skills**: Python (Pandas, NumPy), SQL for data prep, Scikit-learn (modeling), Docker (deployment), CI/CD automation and visualizing data.  
+**Tools**: Python, Scikit-learn, PostgreSQL, Docker, GitHub Actions, Matplotlib, Searborn.  
 **Outcome**: Engineered a pipeline from raw loan data to a deployed model API with **93% accuracy**.  
 📂 **Repo**: [Coming Soon]()
 
