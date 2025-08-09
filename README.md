@@ -1,13 +1,13 @@
 # Hi, I'm Sibongumenzi Nkosi — Data Engineer & Analyst
 
 Welcome to my GitHub portfolio!  
-I’m a **Microsoft-certified** data professional passionate about building scalable data solutions, extracting actionable insights, and driving decision-making with **analytics and AI**.
+I’m a **Microsoft-certified** data professional passionate about building scalable data solutions, extracting actionable insights, and driving decision-making with **analytics**.
 
 ---
 
 ## 🚀 About Me
 - **Microsoft Certified: Power BI Data Analyst Associate**  
-- Strong expertise in **Python, SQL, Power BI, Advanced Excel, PySpark, Azure, and Machine Learning**  
+- Strong expertise in **Python, SQL, Power BI, Advanced Excel, PySpark, Azure, DevOps and Machine Learning**  
 - Skilled in building **end-to-end data pipelines**, interactive **analytics dashboards**, and **predictive models**  
 - **Domain focus**: Finance, Banking, and Retail  
 - Passionate about solving **real-world business problems** through **data intelligence**  
@@ -61,7 +61,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 ### 4️⃣ End-to-End Real-Time Data Pipeline (Azure)
 **Goal**: Build a scalable, near real-time data pipeline for sales ingestion and processing.  
 **Skills**: Azure Data Factory, Kafka, PySpark, Data Lakes, ETL automation, CI/CD deployment.  
-**Tools**: Azure, Apache Kafka, Docker, Airflow, GitHub Actions.  
+**Tools**: Azure, Apache Kafka, Docker, GitHub Actions.  
 **Outcome**: Achieved **98% pipeline reliability** with continuous integration & delivery.  
 📂 **Repo**: [Coming Soon]()
 
@@ -79,7 +79,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 ### 6️⃣ Credit Risk Prediction Model (Data Engineering + ML)
 **Goal**: Developed an end-to-end pipeline for credit risk prediction, including data cleaning, feature engineering, model deployment, and monitoring.  
 **Skills**: Python (Pandas, NumPy), SQL for data prep, Scikit-learn (modeling), Docker (deployment), CI/CD automation.  
-**Tools**: Python, Scikit-learn, PostgreSQL, Docker, Airflow, GitHub Actions.  
+**Tools**: Python, Scikit-learn, PostgreSQL, Docker, GitHub Actions.  
 **Outcome**: Engineered a pipeline from raw loan data to a deployed model API with **93% accuracy**.  
 📂 **Repo**: [Coming Soon]()
 
