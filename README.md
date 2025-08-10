@@ -10,7 +10,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 - Expertise across **Data Engineering, Analytics, and Machine Learning**  
 - Skilled in building **data pipelines**, interactive **dashboards**, and **predictive models**  
 - **Domain focus**: Finance, Banking, and Retail  
-- Passionate about solving **real-world business problems** through **data business intelligence**
+- Passionate about solving **real-world business problems** through **Business Intelligence & Analytics**
 
 ---
 
@@ -21,8 +21,8 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 | **Programming**     | Python, SQL, Java, C++ |
 | **Data Analysis**   | Advanced Excel (XLOOKUP, Power Query, PivotTables, Macros), Power BI (DAX, KPIs, Dashboards) |
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
-| **Big Data & Cloud**| Azure, Snowflake, Databricks, PySpark, AWS Glue, Amazon s3 |
-| **Data Engineering**| Apache Kafka, Apache Airflow, dbt |
+| **Big Data & Cloud**| Azure, Snowflake, Databricks, PySpark, AWS Glue, Amazon S3 |
+| **Data Engineering**| Apache Kafka, Apache Airflow, dbt , Data Governance & Security|
 | **DevOps**          | Docker, Git, GitHub Actions(CI/CD), IaC(Terraform) |
 | **Soft Skills**     | Problem-Solving, Attention to Detail, Data Storytelling |
 
