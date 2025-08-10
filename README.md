@@ -1,4 +1,4 @@
-# Hi, I'm Sibongumenzi Nkosi — Data Engineer & Analyst
+# Hi, I'm Sibongumenzi Nkosi — Data Professional
 
 Welcome to my GitHub portfolio!  
 I’m a **Microsoft-certified** data professional passionate about building scalable data solutions, extracting actionable insights, and driving decision-making with **analytics**.
@@ -19,7 +19,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
 | **Programming**     | Python, SQL, Java, C++ |
-| **Data Analysis**   | Advanced Excel (XLOOKUP, Power Query, PivotTables, Macros), Power BI (DAX, KPIs) |
+| **Data Analysis**   | Advanced Excel (XLOOKUP, Power Query, PivotTables, Macros), Power BI (DAX, KPIs, Dashboards) |
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Big Data & Cloud**| Azure, Snowflake, Databricks, PySpark |
 | **Data Engineering**| Apache Kafka, Apache Airflow, dbt |
