@@ -50,7 +50,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 
 ### 3️⃣ Data Cleaning & Transformation Pipeline (PostgreSQL + dbt + Airflow)  
 **Goal:** Convert messy CSV files into a clean snowflake schema for analytics.  
-**Skills & Tools:** PostgreSQL (data cleaning, normalization, deduplication), dbt (transformations), Apache Airflow (workflow orchestration).  
+**Skills & Tools:** PostgreSQL (data cleaning, normalization, deduplication), dbt (transformations), Apache Airflow (workflow orchestration).
 **arch:** `Raw CSV -> Airflow -> PostgreSQL (staging) -> dbt -> Analytics Schema`  
 **Outcome:** Fully automated ELT pipeline from raw CSVs to reporting-ready tables.  
 📂 **Repo:** [Coming Soon]()
