@@ -89,4 +89,4 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 
 ---
 
-> *“I invest in time and stay focused every time.”* — **Sibongumenzi Nkosi**
+> *“I invest in time and stay focused every minute.”* — **Sibongumenzi Nkosi**
