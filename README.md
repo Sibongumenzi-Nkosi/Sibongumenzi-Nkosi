@@ -39,7 +39,16 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 
 ---
 
-### 2️⃣ Data Cleaning & Transformation Pipeline (PostgreSQL + dbt + Airflow)  
+### 2️⃣ Credit Risk Prediction Model (Python + ML)  
+**Goal:** Develop a pipeline for credit risk prediction, from data cleaning to model deployment and monitoring.  
+**Skills & Tools:** Python (Pandas, NumPy, Scikit-learn), Statistics, Matplotlib & Seaborn (visualization), Flask (model API).  
+**One-line architecture:** `Data -> Feature Engineering -> Model Training -> Flask API -> Real-time Scoring`  
+**Outcome:** Built a predictive model with **93% accuracy** and deployed it as an API for real-time scoring.  
+📂 **Repo:** [Coming Soon]()
+
+---
+
+### 3️⃣ Data Cleaning & Transformation Pipeline (PostgreSQL + dbt + Airflow)  
 **Goal:** Convert messy CSV files into a clean snowflake schema for analytics.  
 **Skills & Tools:** PostgreSQL (data cleaning, normalization, deduplication), dbt (transformations), Apache Airflow (workflow orchestration).  
 **One-line architecture:** `Raw CSV -> Airflow -> PostgreSQL (staging) -> dbt -> Analytics Schema`  
@@ -48,20 +57,11 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 
 ---
 
-### 3️⃣ End-to-End Real-Time Sales Data Pipeline & Live Analytics (Azure + Kafka + Snowflake)  
+### 4️⃣ End-to-End Real-Time Sales Data Pipeline & Live Analytics (Azure + Kafka + Snowflake)  
 **Goal:** Build a scalable, event-driven pipeline for streaming sales data, transforming it, and delivering near real-time dashboards.  
 **Skills & Tools:** Apache Kafka (stream ingestion), Azure Data Factory (orchestration), PySpark on Databricks (transformations), Snowflake SQL (incremental updates), Power BI DirectQuery (visualization).  
 **One-line architecture:** `Producers -> Kafka -> Databricks (Spark) -> Snowflake -> Power BI (DirectQuery)`  
 **Outcome:** Achieved **98% uptime** and sub-second dashboard refresh for sales tracking.  
-📂 **Repo:** [Coming Soon]()
-
----
-
-### 4️⃣ Credit Risk Prediction Model (Python + ML)  
-**Goal:** Develop a pipeline for credit risk prediction, from data cleaning to model deployment and monitoring.  
-**Skills & Tools:** Python (Pandas, NumPy, Scikit-learn), Matplotlib & Seaborn (visualization), Flask (model API).  
-**One-line architecture:** `Data -> Feature Engineering -> Model Training -> Flask API -> Real-time Scoring`  
-**Outcome:** Built a predictive model with **93% accuracy** and deployed it as an API for real-time scoring.  
 📂 **Repo:** [Coming Soon]()
 
 ---
