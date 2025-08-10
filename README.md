@@ -85,7 +85,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 - **LinkedIn:** [linkedin.com/in/sibongumenzi-nkosi-78805435b](https://www.linkedin.com/in/sibongumenzi-nkosi-78805435b)  
 - **GitHub:** [github.com/Sibongumenzi-Nkosi](https://github.com/Sibongumenzi-Nkosi)  
 - **Email:** csibongumenzi@gmail.com  
-- **TikTok:** [tiktok.com/@sibongumenzinkosi](https://www.tiktok.com/@sibongumenzinkosi) - Data Science tutorials based on my studies In BSc Computer Science & Statistics at NWU, that covers Python, SQL, Power BI, Excel, Machine Learning, NLP & CV.
+- **TikTok:** [tiktok.com/@sibongumenzinkosi](https://www.tiktok.com/@sibongumenzinkosi) - On TikTok I shared some Data Science tutorials based on my studies In BSc Computer Science & Statistics at NWU, that covers Python, SQL, Power BI, Excel, Machine Learning, NLP & CV.
 
 ---
 
