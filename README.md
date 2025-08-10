@@ -69,7 +69,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 ### 5️⃣ Automated Containerized Data Ingestion & Deployment (Docker + CI/CD + AWS Glue + Amazon S3)  
 **Goal:** Create a fully containerized data ingestion process with automated deployments and cloud-based ETL orchestration.  
 **Skills & Tools:** Docker (containerization), GitHub Actions (CI/CD automation), AWS Glue (ETL orchestration), Amazon S3 (data storage). 
-**arch:** 'Code -> Docker Image -> GitHub Actions -> Deployed Service -> AWS Glue -> Amazon S3'
+**arch:** `Code -> Docker Image -> GitHub Actions -> Deployed Service -> AWS Glue -> Amazon S3`
 **Outcome:** Reduced deployment time by 75% with zero manual intervention and scalable cloud data ingestion.  
 📂 **Repo:** [Coming Soon]()
 
