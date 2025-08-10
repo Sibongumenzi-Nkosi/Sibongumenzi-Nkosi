@@ -1,7 +1,7 @@
 # Hi, I'm Sibongumenzi Nkosi — Data Professional
 
 Welcome to my GitHub portfolio!  
-I’m a **Microsoft-certified** data professional passionate about building scalable data solutions, extracting actionable insights, and driving decision-making with **analytics**.
+I’m a **Microsoft-certified** data professional passionate about building scalable data solutions, extracting actionable insights, and driving informed decision-making with **analytics**.
 
 ---
 
@@ -10,7 +10,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 - Expertise across **Data Engineering, Analytics, and Machine Learning**  
 - Skilled in building **data pipelines**, interactive **dashboards**, and **predictive models**  
 - **Domain focus**: Finance, Banking, and Retail  
-- Passionate about solving **real-world business problems** through **data intelligence**
+- Passionate about solving **real-world business problems** through **data business intelligence**
 
 ---
 
@@ -23,7 +23,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Big Data & Cloud**| Azure, Snowflake, Databricks, PySpark, AWS Glue, Amazon s3 |
 | **Data Engineering**| Apache Kafka, Apache Airflow, dbt |
-| **DevOps**          | Docker, Git & GitHub Actions, CI/CD, IaC (Terraform) |
+| **DevOps**          | Docker, Git, GitHub Actions(CI/CD), IaC(Terraform) |
 | **Soft Skills**     | Problem-Solving, Attention to Detail, Data Storytelling |
 
 ---
