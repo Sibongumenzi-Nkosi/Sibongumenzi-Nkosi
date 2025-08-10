@@ -21,7 +21,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 | **Programming**     | Python, SQL, Java, C++ |
 | **Data Analysis**   | Advanced Excel (XLOOKUP, Power Query, PivotTables, Macros), Power BI (DAX, KPIs, Dashboards) |
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
-| **Big Data & Cloud**| Azure, Snowflake, Databricks, PySpark |
+| **Big Data & Cloud**| Azure, Snowflake, Databricks, PySpark, AWS Glue, Amazon s3 |
 | **Data Engineering**| Apache Kafka, Apache Airflow, dbt |
 | **DevOps**          | Docker, Git & GitHub Actions, CI/CD, IaC (Terraform) |
 | **Soft Skills**     | Problem-Solving, Attention to Detail, Data Storytelling |
@@ -33,7 +33,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 ### 1️⃣ Sales & Customer Analytics Dashboard (SQL, Excel, Power BI)  
 **Goal:** Build an analytical reporting system for sales performance and customer behavior.  
 **Skills & Tools:** SQL Server (CTEs, JOINS, window functions, CASE), Excel (Power Query, XLOOKUP, PivotTables, Macros), Power BI (DAX, KPIs, dashboards).  
-**One-line architecture:** `Raw CSV / DB -> SQL Server (ETL) -> Power BI (Reports & Dashboards)`  
+**arch:** `Raw CSV / DB -> SQL Server (ETL) -> Power BI (Reports & Dashboards)`  
 **Outcome:** Automated dashboards showing revenue trends, customer churn, and top-performing products.  
 📂 **Repo:** [Coming Soon]()
 
@@ -42,7 +42,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 ### 2️⃣ Credit Risk Prediction Model (Python + ML)  
 **Goal:** Develop a pipeline for credit risk prediction, from data cleaning to model deployment and monitoring.  
 **Skills & Tools:** Python (Pandas, NumPy, Scikit-learn), Statistics, Matplotlib & Seaborn (visualization), Flask (model API).  
-**One-line architecture:** `Data -> Feature Engineering -> Model Training -> Flask API -> Real-time Scoring`  
+**arch:** `Data -> Feature Engineering -> Model Training -> Flask API -> Real-time Scoring`  
 **Outcome:** Built a predictive model with **93% accuracy** and deployed it as an API for real-time scoring.  
 📂 **Repo:** [Coming Soon]()
 
@@ -51,7 +51,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 ### 3️⃣ Data Cleaning & Transformation Pipeline (PostgreSQL + dbt + Airflow)  
 **Goal:** Convert messy CSV files into a clean snowflake schema for analytics.  
 **Skills & Tools:** PostgreSQL (data cleaning, normalization, deduplication), dbt (transformations), Apache Airflow (workflow orchestration).  
-**One-line architecture:** `Raw CSV -> Airflow -> PostgreSQL (staging) -> dbt -> Analytics Schema`  
+**arch:** `Raw CSV -> Airflow -> PostgreSQL (staging) -> dbt -> Analytics Schema`  
 **Outcome:** Fully automated ELT pipeline from raw CSVs to reporting-ready tables.  
 📂 **Repo:** [Coming Soon]()
 
@@ -60,18 +60,19 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 ### 4️⃣ End-to-End Real-Time Sales Data Pipeline & Live Analytics (Azure + Kafka + Snowflake)  
 **Goal:** Build a scalable, event-driven pipeline for streaming sales data, transforming it, and delivering near real-time dashboards.  
 **Skills & Tools:** Apache Kafka (stream ingestion), Azure Data Factory (orchestration), PySpark on Databricks (transformations), Snowflake SQL (incremental updates), Power BI DirectQuery (visualization).  
-**One-line architecture:** `Producers -> Kafka -> Databricks (Spark) -> Snowflake -> Power BI (DirectQuery)`  
+**arch:** `Producers -> Kafka -> Databricks (Spark) -> Snowflake -> Power BI (DirectQuery)`  
 **Outcome:** Achieved **98% uptime** and sub-second dashboard refresh for sales tracking.  
 📂 **Repo:** [Coming Soon]()
 
 ---
 
-### 5️⃣ Automated Containerized Data Ingestion & Deployment (Docker + CI/CD)  
-**Goal:** Create a fully containerized data ingestion process with automated deployments.  
-**Skills & Tools:** Docker (containerization), GitHub Actions (CI/CD automation), Infrastructure-as-Code (Terraform).  
-**One-line architecture:** `Code -> Docker Image -> GitHub Actions -> Container Registry -> Deployed Service`  
-**Outcome:** Reduced deployment time by 75% with zero manual intervention.  
+### 5️⃣ Automated Containerized Data Ingestion & Deployment (Docker + CI/CD + AWS Glue + Amazon S3)  
+**Goal:** Create a fully containerized data ingestion process with automated deployments and cloud-based ETL orchestration.  
+**Skills & Tools:** Docker (containerization), GitHub Actions (CI/CD automation), AWS Glue (ETL orchestration), Amazon S3 (data storage). 
+**arch:** 'Code -> Docker Image -> GitHub Actions -> Deployed Service -> AWS Glue -> Amazon S3'
+**Outcome:** Reduced deployment time by 75% with zero manual intervention and scalable cloud data ingestion.  
 📂 **Repo:** [Coming Soon]()
+
 
 ---
 
