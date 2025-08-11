@@ -1,4 +1,4 @@
-# Hi, I'm Sibongumenzi Nkosi — Data Professional
+# Hi, I'm Sibongumenzi Nkosi — A Data Professional
 
 Welcome to my GitHub portfolio!  
 I’m a **Microsoft-certified** data professional passionate about building scalable data solutions, extracting actionable insights, and driving informed decision-making with **analytics**.
