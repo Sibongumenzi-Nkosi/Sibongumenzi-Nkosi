@@ -31,14 +31,14 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 
 ### 1️⃣ Data Cleaning & Transformation from Superstore.CSV (SQL + Excel + Power BI )  
 **Goal:** Convert messy CSV files into a clean snowflake schema for analytics.  
-**Skills & Tools:** SQL Server (data cleaning, normalization, deduplication), Excel (Power Query, XLOOKUP, PivotTables, Macros), Power BI (DAX, KPIs, Power Query, dashboards). 
+**Skills & Tools:** SQL (data cleaning, normalization, deduplication), Excel (Power Query, XLOOKUP, PivotTables, Macros), Power BI (DAX, KPIs, Power Query, dashboards).
 **Outcome:** Built a fully automated ELT workflow that transforms raw CSV data into clean, reporting-ready tables and dashboards. 
 📂 **Repo:** [Coming Soon]()
 
 
 ### 2️⃣ Sales & Customer Analytics Dashboard (SQL + Power BI)  
 **Goal:** Build an analytical reporting system for sales performance and customer behavior.  
-**Skills & Tools:** SQL Server (CTEs, JOINS, window functions, CASE), Power BI (DAX, KPIs, Power Query, dashboards).    
+**Skills & Tools:** SQL (CTEs, JOINS, window functions, CASE), Power BI (DAX, KPIs, Power Query, dashboards).    
 **Outcome:** Automated live dashboards showing revenue trends, customer churn, and top-performing products.  
 📂 **Repo:** [Coming Soon]()
 
