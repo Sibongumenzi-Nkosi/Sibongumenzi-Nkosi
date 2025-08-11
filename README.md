@@ -18,12 +18,12 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
-| **Programming**     | Python, SQL, Java, C++ |
+| **Programming**     | Python, SQL |
 | **Data Analysis**   | Advanced Excel (XLOOKUP, Power Query, PivotTables, Macros), Power BI (DAX, KPIs, Dashboards) |
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
-| **Big Data & Cloud**| Azure, Snowflake, Databricks, PySpark, AWS Glue, Amazon S3 |
-| **Data Engineering**| Apache Kafka, Apache Airflow, dbt , Data Governance & Security|
-| **DevOps**          | Docker, Git, GitHub Actions(CI/CD), IaC(Terraform) |
+| **Big Data & Cloud**| Azure, Snowflake, Databrick(PySpark)|
+| **Data Engineering**| Apache Kafka, Apache Airflow, dbt|
+| **DevOps**          | Docker, Git, GitHub Actions(CI/CD)|
 | **Soft Skills**     | Problem-Solving, Attention to Detail, Data Storytelling |
 
 ---
@@ -63,16 +63,6 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 **arch:** `Producers -> Kafka -> Databricks (Spark) -> Snowflake -> Power BI (DirectQuery)`  
 **Outcome:** Achieved **98% uptime** and sub-second dashboard refresh for sales tracking.  
 📂 **Repo:** [Coming Soon]()
-
----
-
-### 5️⃣ Automated Containerized Data Ingestion & Deployment (Docker + CI/CD + AWS Glue + Amazon S3)  
-**Goal:** Create a fully containerized data ingestion process with automated deployments and cloud-based ETL orchestration.  
-**Skills & Tools:** Docker (containerization), GitHub Actions (CI/CD automation), AWS Glue (ETL orchestration), Amazon S3 (data storage).  
-**arch:** `Code -> Docker Image -> GitHub Actions -> Deployed Service -> AWS Glue -> Amazon S3`  
-**Outcome:** Reduced deployment time by 75% with zero manual intervention and scalable cloud data ingestion.  
-📂 **Repo:** [Coming Soon]()
-
 
 ---
 
