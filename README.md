@@ -1,4 +1,4 @@
-# Hi, I'm Sibongumenzi Nkosi — A Data Professional
+# Hi, I'm Sibongumenzi Nkosi — Data Analyst
 
 Welcome to my GitHub portfolio!  
 I’m a **Microsoft-certified** data professional passionate about building scalable data solutions, extracting actionable insights, and driving informed decision-making with **analytics**.
@@ -29,26 +29,25 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 
 ## 💼 Portfolio Projects
 
-### 1️⃣ Sales & Customer Analytics Dashboard (SQL, Excel, Power BI)  
+### 1️⃣ Data Cleaning & Transformation from Superstore.CSV (SQL + Excel + Power BI )  
+**Goal:** Convert messy CSV files into a clean snowflake schema for analytics.  
+**Skills & Tools:** SQL Sever (data cleaning, normalization, deduplication), Excel (Power Query, XLOOKUP, PivotTables, Macros), Power BI (DAX, KPIs, Power Query, dashboards). 
+**Outcome:** Built a fully automated ELT workflow that transforms raw CSV data into clean, reporting-ready tables and dashboards. 
+📂 **Repo:** [Coming Soon]()
+
+
+### 2️⃣ Sales & Customer Analytics Dashboard (SQL + Power BI)  
 **Goal:** Build an analytical reporting system for sales performance and customer behavior.  
-**Skills & Tools:** SQL Server (CTEs, JOINS, window functions, CASE), Excel (Power Query, XLOOKUP, PivotTables, Macros), Power BI (DAX, KPIs, dashboards).    
+**Skills & Tools:** SQL Server (CTEs, JOINS, window functions, CASE), Power BI (DAX, KPIs, Power Query, dashboards).    
 **Outcome:** Automated live dashboards showing revenue trends, customer churn, and top-performing products.  
 📂 **Repo:** [Coming Soon]()
 
 ---
 
-### 2️⃣ Credit Risk Prediction Model (Python + ML)  
+### 3️⃣ Credit Risk Prediction Model (Python + ML)  
 **Goal:** Developed a pipeline for credit risk prediction, from data cleaning to model deployment and monitoring.  
 **Skills & Tools:** Python (Pandas, NumPy, Scikit-learn), Statistics, Matplotlib & Seaborn (visualization), Flask (model API).  
 **Outcome:** Built a predictive model with **93% accuracy** and deployed it as an API for real-time scoring.  
-📂 **Repo:** [Coming Soon]()
-
----
-
-### 3️⃣ Data Cleaning & Transformation Pipeline (PostgreSQL + Airflow + CI/CD + Git)  
-**Goal:** Convert messy CSV files into a clean snowflake schema for analytics.  
-**Skills & Tools:** PostgreSQL (data cleaning, normalization, deduplication), Apache Airflow (workflow orchestration) and deployment. 
-**Outcome:** Fully automated ELT pipeline from raw CSVs to reporting-ready tables.  
 📂 **Repo:** [Coming Soon]()
 
 ---
