@@ -19,7 +19,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
 | **Programming**     | Python, SQL |
-| **Data Analysis**   | Advanced Excel (XLOOKUP, Power Query, PivotTables, Macros, Functions & Formulas), Power BI (DAX, KPIs, Power Query, Dashboards) |
+| **Data Analysis**   | Advanced Excel (XLOOKUP, Power Query, PivotTables, Macros, Functions & Formulas), Power BI (DAX, KPIs, Dashboards) |
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Big Data & Cloud**| Azure Synapse Analytics, ADF, Snowflake, Databrick(PySpark) |
 | **Data Engineering**| Apache Kafka, Git, GitHub Actions(CI/CD) |
