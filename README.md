@@ -19,7 +19,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
 | **Programming**     | Python, SQL |
-| **Data Analysis**   | Advanced Excel (XLOOKUP, Power Query, PivotTables, Macros), Power BI (DAX, KPIs, Dashboards) |
+| **Data Analysis**   | Advanced Excel (XLOOKUP, Power Query, PivotTables, Macros, Functions & Formulas), Power BI (DAX, KPIs, Power Query, Dashboards) |
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Big Data & Cloud**| Azure Synapse Analytics, ADF, Snowflake, Databrick(PySpark) |
 | **Data Engineering**| Apache Kafka, Git, GitHub Actions(CI/CD) |
@@ -31,14 +31,14 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 
 ### 1️⃣ Data Cleaning & Transformation from Superstore.CSV (SQL + Excel + Power BI )  
 **Goal:** Convert messy CSV files into a clean snowflake schema for analytics.  
-**Skills & Tools:** SQL (data cleaning, normalization, deduplication), Excel (Power Query, XLOOKUP, PivotTables, Macros), Power BI (DAX, KPIs, Power Query, dashboards).  
+**Skills & Tools:** SQL (data cleaning, normalization, deduplication), Excel (Power Query, XLOOKUP, PivotTables, Macros), Power BI (DAX, KPIs, dashboards).  
 **Outcome:** Built a fully automated ELT workflow that transforms raw CSV data into clean, reporting-ready tables and dashboards.  
 📂 **Repo:** [Coming Soon]()
 
 
 ### 2️⃣ Sales & Customer Analytics Dashboard (SQL + Power BI)  
 **Goal:** Build an analytical reporting system for sales performance and customer behavior.  
-**Skills & Tools:** SQL (CTEs, JOINS, window functions, CASE), Power BI (DAX, KPIs, Power Query, dashboards).    
+**Skills & Tools:** SQL (CTEs, JOINS, window functions, CASE), Power BI (DAX, KPIs, dashboards).    
 **Outcome:** Automated live dashboards showing revenue trends, customer churn, and top-performing products.  
 📂 **Repo:** [Coming Soon]()
 
