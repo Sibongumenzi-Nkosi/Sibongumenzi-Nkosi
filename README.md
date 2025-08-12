@@ -35,6 +35,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 **Outcome:** Built a fully automated ELT workflow that transforms raw CSV data into clean, reporting-ready tables and dashboards.  
 📂 **Repo:** [Coming Soon]()
 
+---
 
 ### 2️⃣ Sales & Customer Analytics Dashboard (SQL + Power BI)  
 **Goal:** Build an analytical reporting system for sales performance and customer behavior.  
