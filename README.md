@@ -29,7 +29,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 
 ## 💼 Portfolio Projects
 
-### 1️⃣ Data Cleaning & Transformation from Superstore.CSV (SQL + Excel + Power BI )  
+### 1️⃣ Data Cleaning & Transformation from Superstore file (SQL + Excel + Power BI )  
 **Goal:** Convert messy CSV files into a clean snowflake schema for analytics.  
 **Skills & Tools:** SQL (data cleaning, normalization, deduplication), Excel (Power Query, XLOOKUP, PivotTables, Macros), Power BI (DAX, KPIs, dashboards).  
 **Outcome:** Built a fully automated ELT workflow that transforms raw CSV data into clean, reporting-ready tables and dashboards.  
