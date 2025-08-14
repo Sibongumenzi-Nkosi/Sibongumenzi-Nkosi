@@ -38,7 +38,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 
 ---
 
-### 2️⃣ Sales & Customer Analytics Dashboard (SQL + Power BI)  
+### 2️⃣ Sales And Revenue Customer Analytics Dashboard (SQL + Power BI)  
 **Goal:** Build an analytical reporting system for sales performance and customer behavior.  
 **Skills & Tools:** SQL (CTEs, JOINS, window functions, CASE), Power BI (DAX, KPIs, dashboards).    
 **Outcome:** Automated live dashboards showing revenue trends, customer churn, and top-performing products.  
