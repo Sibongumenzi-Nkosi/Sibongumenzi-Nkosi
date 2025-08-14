@@ -34,7 +34,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 **Goal:** Convert messy CSV files into a clean snowflake schema for analytics.  
 **Skills & Tools:** SQL (data cleaning, normalization, deduplication), Excel (Power Query, XLOOKUP, PivotTables, Macros), Power BI (DAX, KPIs, dashboards).  
 **Outcome:** Built a fully automated ELT workflow that transforms raw CSV data into clean, reporting-ready tables and dashboards.  
-📂 **Repo:** [Coming Soon]()
+📂 **Repo:** [coming soon]()
 
 ---
 
@@ -42,7 +42,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 **Goal:** Build an analytical reporting system for sales performance and customer behavior.  
 **Skills & Tools:** SQL (CTEs, JOINS, window functions, CASE), Power BI (DAX, KPIs, dashboards).    
 **Outcome:** Automated live dashboards showing revenue trends, customer churn, and top-performing products.  
-📂 **Repo:** [Coming Soon]()
+📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/-Sales-Customer-Analytics-Dashboard.git]()
 
 ---
 
