@@ -50,7 +50,7 @@ I’m a **Microsoft-certified** data professional passionate about building scal
 **Goal:** Developed a pipeline for credit risk prediction, from data cleaning to model deployment and monitoring.  
 **Skills & Tools:** Python (Pandas, NumPy, Scikit-learn), Statistics, Matplotlib & Seaborn (visualization), Flask (model API).  
 **Outcome:** Built a predictive model with **93% accuracy** and deployed it as an API for real-time scoring.  
-📂 **Repo:** [Coming Soon]()
+📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Credit-Risk-Prediction-Model.git]()
 
 ---
 
