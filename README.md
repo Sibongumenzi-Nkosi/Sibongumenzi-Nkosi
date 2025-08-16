@@ -58,7 +58,7 @@ I’m a **Data Engineer & Data Analyst** passionate about building scalable data
 **Goal:** Build a scalable, event-driven pipeline for streaming sales data, transforming it, and delivering near real-time dashboards.  
 **Skills & Tools:** Apache Kafka (stream ingestion), Azure Data Factory (orchestration), PySpark on Databricks (transformations), Snowflake SQL (incremental updates), Power BI DirectQuery (visualization).   
 **Outcome:** Achieved **98% uptime** and sub-second dashboard refresh for sales tracking.  
-📂 **Repo:** [Coming Soon]()
+📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Real-Time-Sales-Data-Pipeline-Live-Analytics.git]()
 
 ---
 
