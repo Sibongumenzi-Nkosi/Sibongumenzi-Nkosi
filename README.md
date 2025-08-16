@@ -30,7 +30,7 @@ I’m a **Data Engineer & Data Analyst** passionate about building scalable data
 
 ## 💼 Portfolio Projects
 
-### 1️⃣ Data Cleaning & Transformation from Superstore file (SQL + Excel + Power BI )  
+### 1️⃣ End-to-End Superstore Data Pipeline & Analytics Dashboard (SQL + Excel + Power BI)
 **Goal:** Convert messy CSV files into a clean snowflake schema for analytics.  
 **Skills & Tools:** SQL (data cleaning, normalization, deduplication), Excel (Power Query, XLOOKUP, PivotTables, Macros), Power BI (DAX, KPIs, dashboards).  
 **Outcome:** Built a fully automated ELT workflow that transforms raw CSV data into clean, reporting-ready tables and dashboards.  
@@ -38,7 +38,7 @@ I’m a **Data Engineer & Data Analyst** passionate about building scalable data
 
 ---
 
-### 2️⃣ Sales And Revenue Customer Analytics Dashboard (SQL + Power BI)  
+### 2️⃣ End-to-End Sales And Revenue Customer Analytics Dashboard (SQL + Power BI)  
 **Goal:** Build an analytical reporting system for sales performance and customer behavior.  
 **Skills & Tools:** SQL (CTEs, JOINS, window functions, CASE), Power BI (DAX, KPIs, dashboards).    
 **Outcome:** Automated live dashboards showing revenue trends, customer churn, and top-performing products.  
@@ -46,7 +46,7 @@ I’m a **Data Engineer & Data Analyst** passionate about building scalable data
 
 ---
 
-### 3️⃣ Credit Risk Prediction Model (Python + ML)  
+### 3️⃣ End-to-End Credit Risk Prediction Model (Python + Statistics + Machine Learning + API)  
 **Goal:** Developed a pipeline for credit risk prediction, from data cleaning to model deployment and monitoring.  
 **Skills & Tools:** Python (Pandas, Scikit-learn), Statistics, Matplotlib & Seaborn (visualization), Flask (model API) and Engineered 5 business-logic features (Payment Burden, Delinquency Score, etc.).  
 **Outcome:** Built a predictive model with **84.5% ROC-AUC** achieved and deployed it as an API for real-time scoring.  
@@ -54,7 +54,7 @@ I’m a **Data Engineer & Data Analyst** passionate about building scalable data
 
 ---
 
-### 4️⃣ End-to-End Real-Time Sales Data Pipeline & Live Analytics (Azure + Kafka + Snowflake + PowerBI)  
+### 4️⃣ End-to-End Real-Time Sales Data Pipeline & Live Analytics (Kafka + ADF + Databricks[PySpark] + Snowflake[SQL] + Power BI)  
 **Goal:** Build a scalable, event-driven pipeline for streaming sales data, transforming it, and delivering near real-time dashboards.  
 **Skills & Tools:** Apache Kafka (stream ingestion), Azure Data Factory (orchestration), PySpark on Databricks (transformations), Snowflake SQL (incremental updates), Power BI DirectQuery (visualization).   
 **Outcome:** Achieved **98% uptime** and sub-second dashboard refresh for sales tracking.  
