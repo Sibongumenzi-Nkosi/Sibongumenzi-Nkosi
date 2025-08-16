@@ -1,7 +1,7 @@
 # Hi, I'm Sibongumenzi Nkosi — Data Analyst
 
 Welcome to my GitHub portfolio!  
-I’m a **Microsoft-certified** data professional passionate about building scalable data solutions, extracting actionable insights, and driving informed decision-making with **analytics**.
+I’m a **Data Engineer & Data Analyst** passionate about building scalable data solutions, extracting actionable insights, and driving informed decision-making with **SQL, Python, Power BI, ETL, Azure etc.**.
 
 ---
 
