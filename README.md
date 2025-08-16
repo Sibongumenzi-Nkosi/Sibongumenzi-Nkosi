@@ -1,4 +1,4 @@
-# Hi, I'm Sibongumenzi Nkosi — Data Analyst
+# Hi, I'm Sibongumenzi Nkosi — Data Engineer & Data Analyst
 
 Welcome to my GitHub portfolio!  
 I’m a **Data Engineer & Data Analyst** passionate about building scalable data solutions, extracting actionable insights, and driving informed decision-making through **SQL, Python, Power BI, ETL, Azure etc.**.
