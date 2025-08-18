@@ -22,9 +22,9 @@ I’m a **Data Engineer & Data Analyst** passionate about building scalable data
 | **Data Analysis**   | Advanced Excel(XLOOKUP, Pivot Tables, Power Query), SQL, Pandas, NumPy|
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn|
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
-| **Cloud Data  Warehouse**| Azure Synapse Analytics, ADF, Snowflake |
+| **Cloud & Data Warehouse**| ADF, Azure Synapse Analytics, Snowflake |
 | **Data Engineering**| Apache Kafka, Databrick(PySpark), Git, CI/CD |
-| **Soft Skills**     | Problem-Solving, Attention to Detail, Data Storytelling |
+| **Soft Skills**     | Problem-Solving, Attention to Details, Data Storytelling |
 
 ---
 
