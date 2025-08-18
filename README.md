@@ -28,11 +28,11 @@ I’m a **Data Engineer & Data Analyst** passionate about building scalable data
 
 ---
 
-## 💼 Portfolio Projects
+## Portfolio Projects
 
 ### 1️⃣ End-to-End Superstore Data Pipeline & Analytics Dashboard (SQL + Excel + Power BI)
-**Goal:** Convert messy CSV files into a clean snowflake schema for analytics.  
-**Skills & Tools:** SQL (data cleaning, normalization, deduplication), Excel (Power Query, XLOOKUP, PivotTables, Macros), Power BI (DAX, KPIs, dashboards).  
+**Goal:** Convert messy Superstore CSV files into a clean star schema for analytics.  
+**Skills & Tools:** SQL (Window Functions, RecursiveCTEs), Excel (XLOOKUP, PivotTables), Power BI (DAX, KPIs, dashboards).  
 **Outcome:** Built a fully automated ELT workflow that transforms raw CSV data into clean, reporting-ready tables and dashboards.  
 📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Superstore-Data-Pipeline-Analytics-Dashboard.git]()
 
@@ -40,7 +40,7 @@ I’m a **Data Engineer & Data Analyst** passionate about building scalable data
 
 ### 2️⃣ End-to-End Sales And Revenue Customer Analytics Dashboard (SQL + Power BI)  
 **Goal:** Build an analytical reporting system for sales performance and customer behavior.  
-**Skills & Tools:** SQL (CTEs, JOINS, window functions, CASE), Power BI (DAX, KPIs, dashboards).    
+**Skills & Tools:** SQL (CTEs, Advanced JOINS, CASE), Power BI (DAX, KPIs, dashboards).    
 **Outcome:** Automated live dashboards showing revenue trends, customer churn, and top-performing products.  
 📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/-Sales-Customer-Analytics-Dashboard.git]()
 
@@ -62,12 +62,12 @@ I’m a **Data Engineer & Data Analyst** passionate about building scalable data
 
 ---
 
-## 🏅 Certifications & Education
+## Certifications & Education
 - **Microsoft Certified**: Power BI Data Analyst Associate
 
 ---
 
-## 🌍 Let’s Connect
+## Let’s Connect
 - **LinkedIn:** [linkedin.com/in/sibongumenzi-nkosi-78805435b](https://www.linkedin.com/in/sibongumenzi-nkosi-78805435b)  
 - **GitHub:** [github.com/Sibongumenzi-Nkosi](https://github.com/Sibongumenzi-Nkosi)  
 - **Email:** csibongumenzi@gmail.com
