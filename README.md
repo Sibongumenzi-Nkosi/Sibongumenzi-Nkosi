@@ -19,7 +19,7 @@ I’m a **Data Engineer & Data Analyst** passionate about building scalable data
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
 | **Programming**     | Python |
-| **Data Analysis**   | Advanced Excel(XLOOKUP, Pivot Tables, Power Query), SQL, Pandas, NumPy|
+| **Data Analysis**   | Advanced Excel(XLOOKUP, Pivot Tables), SQL, Pandas, NumPy|
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn|
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Cloud & Data Warehouse**| ADF, Azure Synapse Analytics, Snowflake |
