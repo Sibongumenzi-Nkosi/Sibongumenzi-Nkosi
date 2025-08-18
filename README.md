@@ -14,7 +14,7 @@ I’m a **Data Engineer & Data Analyst** passionate about building scalable data
 
 ---
 
-## 🧠 Skills
+## Skills
 
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
