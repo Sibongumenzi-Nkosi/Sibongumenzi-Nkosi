@@ -58,11 +58,9 @@ I am a **Data Analyst** passionate about designing scalable data solutions that 
 ---
 
 ## Let’s Connect
-- **LinkedIn:** [linkedin.com/in/sibongumenzi-nkosi-78805435b](https://www.linkedin.com/in/sibongumenzi-nkosi-78805435b)  
-- **GitHub:** [github.com/Sibongumenzi-Nkosi](https://github.com/Sibongumenzi-Nkosi)  
-- **Email:** csibongumenzi@gmail.com
+- **LinkedIn:** [linkedin.com/in/sibongumenzi-nkosi-78805435b](https://www.linkedin.com/in/sibongumenzi-nkosi-78805435b)    
 - **Portfolio** https://datascienceportfol.io/csibongumenzi75
-
+- **Email:** csibongumenzi@gmail.com
 ---
 
 > *“I invest in time and always focused.”* — **Sibongumenzi Nkosi**
