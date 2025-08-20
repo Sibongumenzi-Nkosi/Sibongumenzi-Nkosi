@@ -42,7 +42,7 @@ I’m a **Data Engineer & Data Analyst** passionate about building scalable data
 **Goal:** Build an analytical reporting system for sales performance and customer behavior.  
 **Skills & Tools:** SQL (CTEs, Advanced JOINS, CASE), Power BI (DAX, KPIs, dashboards).    
 **Outcome:** Automated live dashboards showing revenue trends, customer churn, and top-performing products.  
-📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/-Sales-Customer-Analytics-Dashboard.git]()
+📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Sales-And-Revenue-Customer-Analytics-Dashboard.git]()
 
 ---
 
