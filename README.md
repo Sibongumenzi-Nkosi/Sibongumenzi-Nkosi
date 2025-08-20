@@ -1,7 +1,7 @@
 # Hi, I'm Sibongumenzi Nkosi — Data Analyst
 
 Welcome to my GitHub portfolio!  
-I’m a **Data Analyst** passionate about building scalable data solutions, extracting actionable insights, and driving informed decision-making through **SQL, Python, Power BI, ETL, Excel etc.**.
+I am a **Data Analyst** passionate about designing scalable data solutions that transform raw data into actionable insights. Skilled in SQL, Python, Power BI, Excel, and ETL processes, I specialize in building analytical workflows that support data-driven decision-making and deliver measurable business value.
 
 ---
 
