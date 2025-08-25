@@ -7,7 +7,7 @@ I am a **Data Analyst** passionate about designing scalable data solutions that 
 
 ## About Me
 - **Microsoft Certified: Power BI Data Analyst Associate**  
-- Expertise across **Data Analytics and Machine Learning**  
+- Expertise across **Data Analytics, Data Engineering and Machine Learning**  
 - Skilled in building **data pipelines**, interactive **dashboards**, and **predictive models**  
 - **Domain focus**: Finance, Banking, and Retail  
 - Passionate about solving **real-world business problems** through **Business Intelligence & Analytics**
