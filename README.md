@@ -19,7 +19,7 @@ I am a **Data Analyst** passionate about designing scalable data solutions that 
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
 | **Programming**     | Python |
-| **Data Analysis**   | Advanced Excel(XLOOKUP, Pivot Tables), SQL, Pandas, NumPy|
+| **Data Analysis**   | Advanced Excel, SQL, Pandas, NumPy, PySpark|
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn|
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Deployment**      | CI/CD, Git, Flask API |
