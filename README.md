@@ -33,7 +33,7 @@ I am a **Data Analyst** passionate about designing scalable data solutions that 
 
 ### 1️⃣ End-to-End Superstore Data Pipeline & Analytics Dashboard (SQL + Excel + Power BI)
 **Goal:** Convert messy Superstore CSV files into a clean star schema for analytics.  
-**Skills & Tools:** SQL (Window Functions, RecursiveCTEs), Excel (XLOOKUP, PivotTables), Power BI (DAX, KPIs, dashboards).  
+**Skills & Tools:** SQL (Window Functions, RecursiveCTEs), Excel (XLOOKUP, PivotTables, Power Query), Power BI (DAX, KPIs, dashboards).  
 **Outcome:** Built a fully automated ELT workflow that transforms raw CSV data into clean, reporting-ready tables and dashboards.  
 📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Superstore-Data-Pipeline-Analytics-Dashboard.git]()
 
