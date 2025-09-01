@@ -57,11 +57,8 @@ I am a **Data Analyst** passionate about designing scalable data solutions that 
 
 ### 4️⃣ Student Performance Analysis & Budget Visualization
 **Goal:** Creating a clear visual representation of a budget to understand financial allocation. 
-
 **Skills & Tools:** Python, Pandas, Matplotlib (visualization) 
-
 **Outcome:** Delivered a professional-grade pie chart that effectively communicated monthly budget allocation, enabling immediate understanding of fiscal priorities and expenditure patterns.
-
 📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Student-Performance-Analysis-and-Budget-Visualization.git]()
 
 ---
