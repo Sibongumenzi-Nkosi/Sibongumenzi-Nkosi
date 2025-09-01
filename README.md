@@ -25,7 +25,7 @@ I am a **Data Analyst** passionate about designing scalable data solutions that 
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **Cloud Data Warehouse**  | Snowflake, Databricks, Azure|
 | **Deployment**      | CI/CD, Git, Flask API |
-| **Soft Skills**     | Problem-Solving, Attention to Details, Communication/Data Storytelling, TeamWork|
+| **Soft Skills**     | Problem-Solving, Attention to Details, Communication, Data Storytelling, Teamwork|
 
 ---
 
