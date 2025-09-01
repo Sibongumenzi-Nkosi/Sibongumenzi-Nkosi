@@ -48,10 +48,10 @@ I am a **Data Analyst** passionate about designing scalable data solutions that 
 ---
 
 ### 3️⃣ End-to-End Credit Risk Prediction Model (Python + Statistics + Machine Learning + API)  
-**Goal:** Developed a pipeline for credit risk prediction, from data cleaning to model deployment and monitoring.  
-**Skills & Tools:** Python (Pandas, Scikit-learn), Statistics, Matplotlib & Seaborn (visualization), Flask (model API) and Engineered 5 business-logic features (Payment Burden, Delinquency Score, etc.).  
-**Outcome:** Built a predictive model with **84.5% ROC-AUC** achieved and deployed it as an API for real-time scoring.  
-📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Credit-Risk-Prediction-Model.git]()
+**Goal:** Developed a pipeline for credit risk prediction, from data cleaning to model deployment and monitoring.          
+**Skills & Tools:** Python (Pandas, Scikit-learn), Statistics, Matplotlib & Seaborn (visualization), Flask (model API) and Engineered 5 business-logic features (Payment Burden, Delinquency Score, etc.).       
+**Outcome:** Built a predictive model with **84.5% ROC-AUC** achieved and deployed it as an API for real-time scoring.     
+📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Credit-Risk-Prediction-Model.git]() 
 
 ---
 
