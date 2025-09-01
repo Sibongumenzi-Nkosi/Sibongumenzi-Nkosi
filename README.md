@@ -55,7 +55,7 @@ I am a **Data Analyst** passionate about designing scalable data solutions that 
 
 ---
 
-### 3️⃣ End-to-End Credit Risk Prediction Model (Python + Statistics + Machine Learning + API)  
+### 4️⃣ Student Performance Analysis & Budget Visualization
 **Goal:** Creating a clear visual representation of a budget to understand financial allocation. 
 **Skills & Tools:** Python, Pandas, Matplotlib (visualization) 
 **Outcome:** Delivered a professional-grade pie chart that effectively communicated monthly budget allocation, enabling immediate understanding of fiscal priorities and expenditure patterns.
@@ -75,4 +75,5 @@ I am a **Data Analyst** passionate about designing scalable data solutions that 
 ---
 
 > *“I invest in time and always focused.”* — **Sibongumenzi Nkosi**
+
 
