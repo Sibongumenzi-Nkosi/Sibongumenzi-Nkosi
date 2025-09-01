@@ -22,7 +22,7 @@ I am a **Data Analyst** passionate about designing scalable data solutions that 
 | **Data Analysis**   | Advanced Excel, SQL, Pandas, NumPy, Spark|
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn|
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
-| **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferencial Statistics |
+| **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **Cloud Data Warehouse**  | Snowflake, Databricks, Azure|
 | **Deployment**      | CI/CD, Git, Flask API |
 | **Soft Skills**     | Problem-Solving, Attention to Details, Data Storytelling, Team Work|
