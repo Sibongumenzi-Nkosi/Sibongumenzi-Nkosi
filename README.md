@@ -65,7 +65,7 @@ I am a **Data Analyst** passionate about designing scalable data solutions that 
 ---
 ## Certifications & Education
 - **Microsoft Certified**: Power BI Data Analyst Associate
-- BSc In Computer Science And Statistics (Only Coursework Completed)
+- BSc In Computer Science And Statistics (Only Data Analytics Coursework Completed)
 
 ---
 
