@@ -31,7 +31,7 @@ I am a **Data Analyst** passionate about designing scalable data solutions that 
 
 ## Portfolio Projects
 
-### 1️⃣ End-to-End Superstore Data Pipeline & Analytics Dashboard (SQL + Excel)
+### 1️⃣ Superstore Data Pipeline & Analytics Dashboard (SQL + Excel)
 **Goal:** Convert messy Superstore CSV files into a clean star schema for analytics.  
 **Skills & Tools:** SQL (Window Functions, RecursiveCTEs), Excel (XLOOKUP, PivotTables, Power Query).  
 **Outcome:** Built a fully automated ELT workflow that transforms raw CSV data into clean, reporting-ready tables and dashboards.  
