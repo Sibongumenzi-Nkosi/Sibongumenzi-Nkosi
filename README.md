@@ -35,7 +35,7 @@ Welcome to my GitHub portfolio!
 **Goal:** Convert messy Superstore CSV files into a clean star schema for analytics.  
 **Skills & Tools:** SQL (Window Functions, RecursiveCTEs), Excel (XLOOKUP, PivotTables, Power Query).  
 **Outcome:** Built a fully automated ELT workflow that transforms raw CSV data into clean, reporting-ready tables and dashboards.  
-📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Superstore-Data-Pipeline-Analytics-Dashboard.git]()
+📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Superstore-Data-Pipeline-Analytics-Dashboard-.git]()
 
 ---
 
