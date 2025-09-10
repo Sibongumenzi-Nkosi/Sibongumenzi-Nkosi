@@ -25,7 +25,7 @@ Welcome to my GitHub portfolio!
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **Data Warehouse Platform**  | Microsoft SQL Server, Databricks, Snowflake|
 | **Deployment**      | CI/CD, Git, Flask API |
-| **Soft Skills**     | Problem-Solving, Attention to Details, Communication, Data Storytelling, Teamwork|
+| **Soft Skills**     | Problem-Solving, Attention to Details, Communication, Business Accumen |
 
 ---
 
