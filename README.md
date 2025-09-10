@@ -18,14 +18,14 @@ Welcome to my GitHub portfolio!
 
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
-| **Programming**     | Python, C++, Java|
-| **Data Analysis**   | Advanced Excel, SQL, Pandas, NumPy, PySpark |
+| **Programming**     | Python, SQL |
+| **Data Analysis**   | Advanced Excel, Pandas, NumPy, PySpark, ETL |
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn, SciPy|
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **Data Warehouse Platform**  | Microsoft SQL Server, Databricks, Snowflake|
 | **Deployment**      | CI/CD, Git, Flask API |
-| **Soft Skills**     | Problem-Solving, Attention to Details, Communication, Business Accumen |
+| **Soft Skills**     | Problem-Solving, Attention to Details, Communication, Business Accumen, Collaboration |
 
 ---
 
