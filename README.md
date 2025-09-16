@@ -65,8 +65,8 @@ Welcome to my GitHub portfolio!
 ---
 ## Certifications & Education
 - **Microsoft Certified**: Power BI Data Analyst Associate
-- BSc In Computer Science And Statistics (Only Data Analytics Coursework Completed)
-
+- Data Analytics & Programming Coursework in Computer Science at NWU
+  
 ---
 
 ## Let’s Connect
