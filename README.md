@@ -19,8 +19,8 @@ Welcome to my GitHub portfolio!
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
 | **Programming**     | Python, SQL |
-| **Data Analysis**   | Advanced Excel, Pandas, NumPy, PySpark, ETL |
-| **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn, SciPy|
+| **Data Analysis**   | Advanced Excel, Pandas, NumPy, PySpark, SciPy, ETL |
+| **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn |
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **Data Warehouse Platform**  | Microsoft SQL Server, Databricks, Snowflake |
