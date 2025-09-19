@@ -23,7 +23,7 @@ Welcome to my GitHub portfolio!
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn, SciPy|
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
-| **Data Warehouse Platform**  | Microsoft SQL Server, Databricks |
+| **Data Warehouse Platform**  | Microsoft SQL Server, Databricks, Snowflake |
 | **Deployment**      | CI/CD, Git, Flask API |
 | **Soft Skills**     | Problem-Solving, Attention to Details, Communication, Business Accumen, Collaboration |
 
