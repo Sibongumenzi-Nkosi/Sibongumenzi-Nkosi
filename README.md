@@ -2,13 +2,14 @@
 
 Welcome to my GitHub portfolio!  
 **Data Professional** passionate about building scalable data solutions that transform raw data into actionable insights. Skilled in SQL, Python, ETL, PySpark, Power BI, Databricks, Snowflake and Excel. I specialize in building reliable data pipelines, designing analytical workflows, and integrating diverse data sources to enable data-driven decision-making and deliver measurable business value.
+
 ---
 
 ## About Me
 - **Microsoft Certified: Power BI Data Analyst Associate**  
 - Expertise across **Data Analytics, Data Engineering and Machine Learning**  
 - Skilled in building **data pipelines**, interactive **dashboards**, and **predictive models**  
-- **Domain focus**: Finance, Banking, and Retail  
+- **Domain focus**: IT, Finance and Retail  
 - Passionate about solving **real-world business problems** through **Business Intelligence & Analytics**
 
 ---
