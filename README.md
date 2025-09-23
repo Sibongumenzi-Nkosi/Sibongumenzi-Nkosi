@@ -1,7 +1,7 @@
-# Hi, I'm Sibongumenzi Nkosi - Data Engineer & Analyst 
+# Hi, I'm Sibongumenzi Nkosi - Data Analyst 
 
 Welcome to my GitHub portfolio!  
-**Data Professional** passionate about building scalable data solutions that transform raw data into actionable insights. Skilled in SQL, Python, ETL, PySpark, Power BI, Databricks, Snowflake and Excel. I specialize in building reliable data pipelines, designing analytical workflows, and integrating diverse data sources to enable data-driven decision-making and deliver measurable business value.
+**Data Professional** passionate about building scalable data solutions that transform raw data into actionable insights. Skilled in SQL, Python, ETL, PySpark, Power BI, Databricks and Excel. I specialize in designing analytical workflows and integrating diverse data sources to enable data-driven decision-making and deliver measurable business value.
 
 ---
 
