@@ -5,8 +5,7 @@ Welcome to my GitHub portfolio!
 
 ---
 
-## About Me
-- **Microsoft Certified: Power BI Data Analyst Associate**  
+## About Me 
 - Expertise across **Data Analytics, Data Engineering and Machine Learning**  
 - Skilled in building **data pipelines**, interactive **dashboards**, and **predictive models**  
 - **Domain focus**: IT, Finance and Retail  
@@ -23,7 +22,7 @@ Welcome to my GitHub portfolio!
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn |
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
-| **Data Warehouse Platform**  | Microsoft SQL Server, Databricks, Snowflake |
+| **Data Warehouse Platform**  | Microsoft SQL Server, Databricks |
 | **Deployment**      | CI/CD, Git, Flask API |
 | **Soft Skills**     | Problem-Solving, Attention to Details, Communication, Business Accumen, Collaboration |
 
@@ -63,8 +62,7 @@ Welcome to my GitHub portfolio!
 
 
 ---
-## Certifications & Education
-- **Microsoft Certified**: Power BI Data Analyst Associate
+## Education
 - Data Analytics & Programming Coursework in Computer Science at NWU
   
 ---
