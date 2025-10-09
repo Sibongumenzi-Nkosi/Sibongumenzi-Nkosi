@@ -2,6 +2,7 @@
 
 Welcome to my GitHub portfolio!  
 **Data Analyst** passionate about designing scalable data solutions that transform raw data into actionable insights for data-driven decision-making. Skilled in SQL, Python, ETL, PySpark, Power BI, Databricks and Excel. Experienced in building analytical dashboards, creating performance and KPI reports.
+
 ---
 
 ## About Me 
