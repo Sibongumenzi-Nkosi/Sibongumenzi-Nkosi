@@ -23,6 +23,7 @@ Welcome to my GitHub portfolio!
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **Data Warehouse Platform**  | Microsoft SQL Server, Databricks |
+| **Deployment**  | Git, CI/CD, FlaskAPI |
 | **Soft Skills**     | Problem-Solving, Attention to Detail, Communication, Business Accumen, Collaboration |
 
 ---
