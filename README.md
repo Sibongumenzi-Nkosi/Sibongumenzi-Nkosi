@@ -32,7 +32,7 @@ Data professional dedicated to transforming complex datasets into clear, actiona
 
 ### 1️⃣ Superstore Data Pipeline & Analytics Dashboard (SQL + Excel)
 **Goal:** Convert messy Superstore CSV files into a clean star schema for analytics.  
-**Skills & Tools:** SQL (Window Functions, RecursiveCTEs), Excel (XLOOKUP, PivotTables, Power Query).  
+**Skills & Tools:** SQL (Window Functions, RecursiveCTEs), Excel (XLOOKUP, PivotTables, Power Query).Data Warehousing, Data Modelling, Data Visualization. 
 **Outcome:** Built a fully automated ELT workflow that transforms raw CSV data into clean, reporting-ready tables and dashboards.  
 📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Superstore-Data-Pipeline-Analytics-Dashboard-.git]()
 
@@ -40,7 +40,7 @@ Data professional dedicated to transforming complex datasets into clear, actiona
 
 ### 2️⃣ End-to-End Sales And Revenue Customer Analytics Dashboard (SQL + Power BI)  
 **Goal:** Build an analytical reporting system for sales performance and customer behavior.  
-**Skills & Tools:** SQL (CTEs, Advanced JOINS, CASE), Power BI (DAX, KPIs, dashboards).    
+**Skills & Tools:** SQL (CTEs, Advanced JOINS, CASE), Power BI (DAX, KPIs, dashboards). Data Warehousing, Data Modelling, Data Visualization. 
 **Outcome:** Automated live dashboards showing revenue trends, customer churn, and top-performing products.  
 📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Sales-And-Revenue-Customer-Analytics-Dashboard.git]()
 
@@ -48,7 +48,7 @@ Data professional dedicated to transforming complex datasets into clear, actiona
 
 ### 3️⃣ End-to-End Credit Risk Prediction Model (Python + Statistics + Machine Learning + API)  
 **Goal:** Developed a pipeline for credit risk prediction, from data cleaning to model deployment and monitoring.          
-**Skills & Tools:** Python (Pandas, Scikit-learn), Statistics (SciPy), Matplotlib & Seaborn (visualization), Flask (model API) and Engineered 5 business-logic features (Payment Burden, Delinquency Score, etc.).       
+**Skills & Tools:** Python (Pandas, Scikit-learn), Statistics (SciPy), Matplotlib & Seaborn (visualization), Flask (model API) and Engineered 5 business-logic features (Payment Burden, Delinquency Score, etc.). Data Modelling.       
 **Outcome:** Built a predictive model with **84.5% ROC-AUC** achieved and deployed it as an API for real-time scoring.     
 📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Credit-Risk-Prediction-Model.git]() 
 
