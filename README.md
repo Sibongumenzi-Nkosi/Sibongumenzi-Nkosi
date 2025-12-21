@@ -22,7 +22,7 @@ Data professional dedicated to transforming complex datasets into clear, actiona
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn |
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
-| **Data Warehouse Platform**  | Microsoft SQL Server, Databricks |
+| **RDBMS**  | Microsoft SQL Server |
 | **Deployment**  | APIs|
 | **Soft Skills**     | Problem-Solving, Attention to Detail, Communication, Business Accumen, Collaboration |
 
