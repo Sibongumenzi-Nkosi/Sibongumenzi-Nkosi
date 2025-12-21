@@ -6,8 +6,8 @@ Data professional dedicated to transforming complex datasets into clear, actiona
 ---
 
 ## About Me 
-- Expertise across **Data Analytics, Data Engineering and Machine Learning**  
-- Skilled in building **data pipelines**, interactive **dashboards**, and **predictive models**  
+- Expertise in **Data Analytics and Business Intelligence**  
+- Skilled in building **KPI reports**, interactive **dashboards**, and **delivering actionable insights**  
 - **Domain focus**: IT, Finance and Retail  
 - Passionate about solving **real-world business problems** through **Business Intelligence & Analytics**
 
@@ -18,12 +18,12 @@ Data professional dedicated to transforming complex datasets into clear, actiona
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
 | **Programming**     | Python, SQL |
-| **Data Analysis**   | Advanced Excel, Pandas, NumPy, PySpark, ETL |
+| **Data Analysis**   | Advanced Excel, Pandas, NumPy, ETL |
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn |
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **Data Warehouse Platform**  | Microsoft SQL Server, Databricks |
-| **Deployment**  | Git, APIs|
+| **Deployment**  | APIs|
 | **Soft Skills**     | Problem-Solving, Attention to Detail, Communication, Business Accumen, Collaboration |
 
 ---
