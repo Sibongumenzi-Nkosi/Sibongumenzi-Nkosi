@@ -1,7 +1,7 @@
 # Hi, I'm Sibongumenzi Nkosi - Data Analyst | Reporting Analyst 
 
 Welcome to my GitHub portfolio!  
-Data professional dedicated to transforming complex datasets into clear, actionable insights through KPI reporting, and interactive dashboards that drive strategic decisions.
+Data professional dedicated in transforming complex datasets into clear, actionable insights through KPI reporting, and interactive dashboards that drive strategic decisions.
 
 ---
 
