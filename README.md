@@ -1,4 +1,4 @@
-# Hi, I'm Sibongumenzi Nkosi - Data Analyst | Reporting Analyst 
+i# Hi, I'm Sibongumenzi Nkosi - Data Analyst | Reporting Analyst 
 
 Welcome to my GitHub portfolio!  
 Data professional dedicated in transforming complex datasets into clear, actionable insights through KPI reporting, and interactive dashboards that drive strategic decisions.
@@ -82,7 +82,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 - BSc with Computer Science and Statistics
 - North West University (NWU)
 - January 2024 - December 2025
-- Courses Completed:
+- Completed Courses:
   - Programming in Python, SQL, C++ and MATLAB
   - Descriptive Statistics and Inference 
   - Structured Programming
