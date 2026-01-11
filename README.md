@@ -80,12 +80,14 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 ---
 ## Education
 - BSc with Computer Science and Statistics
-- North West University (NWU) 2024 - 2025
+- North West University (NWU)
+- January 2024 - December 2025
 - Courses Completed:
-  - Python, Java , C++, MATLAB and SQL
-  - Descriptive Statistics and Probability
-  -
-
+  - Programming in Python, SQL, C++ and MATLAB
+  - Descriptive Statistics and Inference 
+  - Structured Programming
+  - Introduction to Computing and Programming
+  - Data Analytics Project/ Coursework
   ---
 
 ## Let’s Connect
