@@ -87,7 +87,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
   - Descriptive Statistics and Inference 
   - Structured Programming
   - Introduction to Computing and Programming
-  - Data Analytics Project/ Coursework
+  - Data Analytics Projects
   ---
 
 ## Let’s Connect
