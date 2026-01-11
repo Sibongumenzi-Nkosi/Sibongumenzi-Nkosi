@@ -79,9 +79,14 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 
 ---
 ## Education
-- Data Analytics & Programming Coursework in Computer Science at NWU
-  
----
+- BSc with Computer Science and Statistics
+- North West University (NWU) 2024 - 2025
+- Courses Completed:
+  - Python, Java , C++, MATLAB and SQL
+  - Descriptive Statistics and Probability
+  -
+
+  ---
 
 ## Let’s Connect
 - **LinkedIn:** [linkedin.com/in/sibongumenzi-nkosi-78805435b](https://www.linkedin.com/in/sibongumenzi-nkosi-78805435b)    
