@@ -1,4 +1,4 @@
-# Hi, I'm Sibongumenzi Nkosi - Data Analyst | Reporting Analyst | Data Engineer 
+# Hi, I'm Sibongumenzi Nkosi - Data Analyst | Reporting Analyst 
 
 Welcome to my GitHub portfolio!  
 Data professional dedicated in transforming complex datasets into clear, actionable insights through KPI reporting, and interactive dashboards that drive strategic decisions.
@@ -18,7 +18,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
 | **Programming**     | Python, SQL |
-| **Data Analysis**   | Advanced Excel, Pandas, NumPy, PySpark, ETL |
+| **Data Analysis**   | Advanced Excel, Pandas, NumPy, ETL |
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn |
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
