@@ -42,7 +42,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 
 ---
 
-### 2️⃣ End-to-End Sales And Revenue Customer Analytics Dashboard   
+### 2️⃣ Sales And Revenue Customer Analytics Dashboard   
 
 **Goal:** Build an analytical reporting system for sales performance and customer behavior.  
 
@@ -54,7 +54,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 
 ---
 
-### 3️⃣ End-to-End Credit Risk Prediction Model   
+### 3️⃣ Credit Risk Prediction Model   
 
 **Goal:** Developed a pipeline for credit risk prediction, from data cleaning to model deployment and monitoring.  
 
