@@ -30,7 +30,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 
 ## Portfolio Projects
 
-### 1️⃣ Superstore Data Pipeline & Analytics Dashboard (SQL + Excel)
+### 1️⃣ Superstore Data Pipeline & Analytics Dashboard 
 
 **Goal:** Convert messy Superstore CSV files into a clean star schema for analytics. 
 
@@ -42,7 +42,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 
 ---
 
-### 2️⃣ End-to-End Sales And Revenue Customer Analytics Dashboard (SQL + Power BI)  
+### 2️⃣ End-to-End Sales And Revenue Customer Analytics Dashboard   
 
 **Goal:** Build an analytical reporting system for sales performance and customer behavior.  
 
@@ -54,7 +54,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 
 ---
 
-### 3️⃣ End-to-End Credit Risk Prediction Model (Python + Statistics + Machine Learning + API)  
+### 3️⃣ End-to-End Credit Risk Prediction Model   
 
 **Goal:** Developed a pipeline for credit risk prediction, from data cleaning to model deployment and monitoring.  
 
