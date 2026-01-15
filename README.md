@@ -48,7 +48,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 
 **Skills & Tools:** SQL (CTEs, Advanced JOINS, CASE), Power BI (DAX, KPIs, dashboards). Data Warehousing, Data Modelling, Data Visualization. 
 
-**Outcome:** Automated live dashboards showing revenue trends, customer churn, and top-performing products. 
+**Outcome:** Automated live dashboards showing revenue trends, customer churn, and top-performing products, leading to a 28% faster decision-making process.
 
 📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Sales-And-Revenue-Customer-Analytics-Dashboard.git]()
 
