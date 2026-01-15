@@ -36,7 +36,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 
 **Skills & Tools:** SQL (Window Functions, RecursiveCTEs), Excel (XLOOKUP, PivotTables, Power Query).Data Warehousing, Data Modelling, Data Visualization. 
 
-**Outcome:** Built a fully automated ELT workflow that transforms raw CSV data into clean, reporting-ready tables and dashboards.  
+**Outcome:** Built a fully automated ELT workflow that transforms raw CSV data into clean, reporting-ready tables and dashboards, improving reporting efficiency by 35%. 
 
 📂 **Repo:** [https://github.com/Sibongumenzi-Nkosi/Superstore-Data-Pipeline-Analytics-Dashboard-.git]()
 
