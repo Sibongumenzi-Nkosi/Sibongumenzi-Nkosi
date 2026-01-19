@@ -1,4 +1,4 @@
-# Hi, I'm Sibongumenzi Nkosi - Data Analyst | AI Specialist 
+# Hi, I'm Sibongumenzi Nkosi - Data Analyst | Data & AI consultant 
 
 Welcome to my GitHub portfolio!  
 Data professional dedicated in transforming complex datasets into clear, actionable insights through KPI reporting, and interactive dashboards that drive strategic decisions.
@@ -18,7 +18,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
 | **Programming**     | Python, SQL |
-| **Data Analysis**   | Advanced Excel, Pandas, NumPy, ETL, Data Modelling |
+| **Data Analysis**   | Advanced Excel, Pandas, NumPy, ETL,PySpark, Data Modelling |
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn |
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning), TensorFlow |
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
