@@ -18,9 +18,9 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
 | **Programming**     | Python, SQL |
-| **Data Analysis**   | Advanced Excel, Pandas, NumPy, ETL, PySpark, Data Modelling |
+| **Data Analysis**   | Advanced Excel, Pandas, NumPy, ETL, Data Modelling |
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn |
-| **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning), TensorFlow |
+| **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **RDBMS**  | Microsoft SQL Server |
 | **Deployment**  | Git, APIs|
