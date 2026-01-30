@@ -6,8 +6,8 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 ---
 
 ## About Me 
-- Expertise in **Data Analytics and Business Intelligence**  
-- Skilled in building **KPI reports**, interactive **dashboards**, and **delivering actionable insights**  
+- Expertise in **Data Analytics, Data Engineering and Business Intelligence**  
+- Skilled in building **Data Pipelines**, **KPI reports**, interactive **dashboards**, and **delivering actionable insights**  
 - **Domain focus**: IT, Finance and Retail  
 - Passionate about solving **real-world business problems** through **Business Intelligence & Analytics**
 
@@ -23,6 +23,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **RDBMS**  | Microsoft SQL Server |
+| **Big Data & Cloud**| Google Cloud Platform |
 | **Deployment**  | Git, APIs|
 | **Soft Skills**     | Problem-Solving, Attention to Detail, Communication, Business Accumen, Collaboration |
 
