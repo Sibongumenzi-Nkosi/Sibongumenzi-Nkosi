@@ -23,7 +23,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 | **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **RDBMS & Data Modelling**  | Microsoft SQL Server, star schema |
-| **Big Data & Cloud**| Google Cloud Platform, PySpark |
+| **Big Data & Cloud**| Google Cloud Platform, BigQuery, PySpark |
 | **Deployment**  | Git, APIs|
 | **Soft Skills**     | Problem-Solving, Attention to Detail, Communication, Business Accumen, Collaboration |
 
