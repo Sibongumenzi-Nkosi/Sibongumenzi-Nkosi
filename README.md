@@ -24,7 +24,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **RDBMS & Data Modelling**  | Microsoft SQL Server, star schema |
 | **Big Data & Cloud**| Google Cloud Platform, BigQuery, PySpark |
-| **Deployment**  | Git, APIs|
+| **Deployment**  | Git, APIs, Docker |
 | **Soft Skills**     | Problem-Solving, Attention to Detail, Communication, Business Accumen, Collaboration |
 
 ---
