@@ -1,8 +1,7 @@
 # Hi, I'm Sibongumenzi Nkosi - Data Analyst | Data Engineer | AI Auditor 
 
 Welcome to my GitHub portfolio!  
-Data professional dedicated in transforming complex datasets into clear, actionable insights skilled in building data pipelines, KPI reporting, and interactive dashboards that drive strategic decisions.
-
+Data professional dedicated in transforming complex datasets into clear, actionable insights skilled in building data pipelines, KPI reporting, and interactive dashboards that drive strategic decisions. I also use my expertise in AI auditing to help organisations deploy responsible AI solutions.
 ---
 
 ## About Me 
@@ -18,9 +17,9 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
 | **Programming**     | Python, SQL , C++|
-| **Data Analysis**   | Advanced Excel, Pandas, NumPy, ETL, EDA, NLP |
+| **Data Analysis**   | Advanced Excel, Pandas, NumPy, ETL, EDA |
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn |
-| **Machine Learning & AI**| Scikit-learn, TensorFlow, SHAP, Neural Networks, Computer vision|
+| **Machine Learning & AI**| Scikit-learn, TensorFlow, SHAP, Neural Networks, Computer vision, NLP|
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **RDBMS & Data Modelling**  | Microsoft SQL Server, star schema |
 | **Big Data & Cloud**| Google Cloud Platform, BigQuery, PySpark |
