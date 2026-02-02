@@ -95,6 +95,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 ## Let’s Connect
 - **LinkedIn:** [linkedin.com/in/sibongumenzi-nkosi-78805435b](https://www.linkedin.com/in/sibongumenzi-nkosi-78805435b)    
 - **Portfolio** https://datascienceportfol.io/csibongumenzi75
+- **Facebook Page:** https://www.facebook.com/profile.php?id=61587195249953
 - **Email:** csibongumenzi@gmail.com
 ---
 
