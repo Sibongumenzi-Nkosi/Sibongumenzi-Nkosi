@@ -1,4 +1,4 @@
-# Hi, I'm Sibongumenzi Nkosi - Data Analyst | Data Engineer 
+# Hi, I'm Sibongumenzi Nkosi - Data Analyst | Data Engineer | AI Auditor 
 
 Welcome to my GitHub portfolio!  
 Data professional dedicated in transforming complex datasets into clear, actionable insights skilled in building data pipelines, KPI reporting, and interactive dashboards that drive strategic decisions.
@@ -6,10 +6,10 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 ---
 
 ## About Me 
-- Expertise in **Data Analytics, Data Engineering and Business Intelligence**  
-- Skilled in building **Data Pipelines**, **KPI reports**, interactive **dashboards**, and **delivering actionable insights**  
+- Expertise in **Data Analytics, Data Engineering and AI Auditing**  
+- Skilled in building **Data Pipelines**, **KPI reports**, interactive **dashboards**, **AI/ML Models** and **delivering actionable insights**  
 - **Domain focus**: IT, Finance and Retail  
-- Passionate about solving **real-world business problems** through **Business Intelligence & Analytics**
+- Passionate about solving **real-world business problems** through **Business Intelligence, Analytics & AI**
 
 ---
 
@@ -17,10 +17,10 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
-| **Programming**     | Python, SQL |
-| **Data Analysis**   | Advanced Excel, Pandas, NumPy, ETL, EDA |
+| **Programming**     | Python, SQL , C++|
+| **Data Analysis**   | Advanced Excel, Pandas, NumPy, ETL, EDA, NLP |
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn |
-| **Machine Learning**| Scikit-learn (Supervised & Unsupervised Learning) |
+| **Machine Learning & AI**| Scikit-learn, TensorFlow, SHAP, Neural Networks, Computer vision|
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **RDBMS & Data Modelling**  | Microsoft SQL Server, star schema |
 | **Big Data & Cloud**| Google Cloud Platform, BigQuery, PySpark |
