@@ -2,6 +2,7 @@
 
 Welcome to my GitHub portfolio!  
 Data professional dedicated in transforming complex datasets into clear, actionable insights skilled in building data pipelines, KPI reporting, and interactive dashboards that drive strategic decisions. I also use my expertise in AI auditing to help organisations deploy responsible AI solutions.
+
 ---
 
 ## About Me 
