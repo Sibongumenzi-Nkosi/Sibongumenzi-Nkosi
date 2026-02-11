@@ -21,7 +21,7 @@ Data professional dedicated in transforming complex datasets into clear, actiona
 | **Programming**     | Python, SQL , C++|
 | **Data Analysis**   | Advanced Excel, Pandas, NumPy, ETL, EDA |
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn |
-| **Machine Learning & AI**| Scikit-learn, TensorFlow, SHAP, Neural Networks, Computer vision, NLP, AI Ethics & Data Privacy|
+| **Machine Learning & AI**| Scikit-learn, SHAP, Neural Networks, AI, AI Ethics & Data Privacy|
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **RDBMS & Data Modelling**  | Microsoft SQL Server, star schema |
 | **Big Data & Cloud**| Google Cloud Platform, BigQuery, PySpark |
