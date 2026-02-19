@@ -1,4 +1,4 @@
-# Hi, I'm Sibongumenzi Nkosi - Data Analyst | Data Engineer | AI Auditor 
+# Hi, I'm Sibongumenzi Nkosi - Data Analyst
 
 Welcome to my GitHub portfolio!  
 
