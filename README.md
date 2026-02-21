@@ -1,8 +1,7 @@
 # Hi, I'm Sibongumenzi Nkosi - Data Analyst
-
 Welcome to my GitHub portfolio!  
 
-Data & AI professional skilled in Python, SQL, and data analytics tools, specializing in scalable ETL pipelines, KPI dashboards, and automation systems. Experienced in AI auditing and AI-driven automation, delivering reliable, data-driven solutions that improve decision-making and operational efficiency.
+Skilled in transforming raw data into actionable insights. Experienced in data cleaning, analysis, visualization, and reporting to support informed business decisions and drive growth.
 
 ---
 
