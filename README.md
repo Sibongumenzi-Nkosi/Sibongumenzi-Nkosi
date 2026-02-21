@@ -6,10 +6,10 @@ Skilled in transforming raw data into actionable insights. Experienced in data c
 ---
 
 ## About Me 
-- Expertise in **Data Analytics and AI**  
+- Expertise in **Data Analytics**  
 - Skilled in building **Data Pipelines**, **KPI reports**, interactive **dashboards**, **ML Models** and **delivering actionable insights**  
-- **Domain focus**: IT, Finance and Retail  
-- Passionate about solving **real-world business problems** through **Analytics & AI**
+- **Domain focus**: IT, Finance and Retail 
+- Passionate about solving **real-world business problems** through **Analytics**
 
 ---
 
