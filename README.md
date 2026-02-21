@@ -6,10 +6,10 @@ Skilled in transforming raw data into actionable insights. Experienced in data c
 ---
 
 ## About Me 
-- Expertise in **Data Analytics, Data Engineering and AI Auditing**  
-- Skilled in building **Data Pipelines**, **KPI reports**, interactive **dashboards**, **AI/ML Models** and **delivering actionable insights**  
+- Expertise in **Data Analytics and AI**  
+- Skilled in building **Data Pipelines**, **KPI reports**, interactive **dashboards**, **ML Models** and **delivering actionable insights**  
 - **Domain focus**: IT, Finance and Retail  
-- Passionate about solving **real-world business problems** through **Business Intelligence, Analytics & AI**
+- Passionate about solving **real-world business problems** through **Analytics & AI**
 
 ---
 
@@ -20,7 +20,7 @@ Skilled in transforming raw data into actionable insights. Experienced in data c
 | **Programming**     | Python, SQL , C++|
 | **Data Analysis**   | Advanced Excel, Pandas, NumPy, ETL, EDA |
 | **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn |
-| **Machine Learning & AI**| Scikit-learn, SHAP, Neural Networks, AI, AI Ethics & Data Privacy|
+| **Machine Learning & AI**| Scikit-learn, Neural Networks, AI Ethics & Data Privacy|
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **RDBMS & Data Modelling**  | Microsoft SQL Server, star schema |
 | **Big Data & Cloud**| Google Cloud Platform, BigQuery, PySpark |
