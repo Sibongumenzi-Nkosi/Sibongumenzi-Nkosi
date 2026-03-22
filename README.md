@@ -1,7 +1,7 @@
 # Hi, I'm Sibongumenzi Nkosi - Data Analyst
 Welcome to my GitHub portfolio!  
 
-Skilled in transforming raw data into actionable insights. Experienced in data cleaning, analysis, visualization, and reporting to support informed business decisions and drive growth.
+Skilled in transforming raw data into actionable insights. Experienced in data cleaning, data pipelines, analysis, visualization, and reporting to support informed business decisions and drive growth.
 
 ---
 
@@ -23,7 +23,7 @@ Skilled in transforming raw data into actionable insights. Experienced in data c
 | **Machine Learning & AI**| Scikit-learn, Neural Networks, AI Ethics & Data Privacy|
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **RDBMS & Data Modelling**  | Microsoft SQL Server, star schema |
-| **Big Data & Cloud**| Google Cloud Platform, BigQuery, PySpark |
+| **Big Data & Cloud**| Google Cloud Platform, BigQuery, PySpark, Snowflake, Databricks|
 | **Deployment**  | Git, APIs, Docker |
 | **Soft Skills**     | Problem-Solving, Attention to Detail, Communication, Business Accumen, Collaboration |
 
