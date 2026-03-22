@@ -1,4 +1,4 @@
-# Hi, I'm Sibongumenzi Nkosi - Data Analyst
+# Hi, I'm Sibongumenzi Nkosi - Data Analyst | Data Engineer 
 Welcome to my GitHub portfolio!  
 
 Skilled in transforming raw data into actionable insights. Experienced in data cleaning, data pipelines, analysis, visualization, and reporting to support informed business decisions and drive growth.
@@ -6,7 +6,7 @@ Skilled in transforming raw data into actionable insights. Experienced in data c
 ---
 
 ## About Me 
-- Expertise in **Data Analytics**  
+- Expertise in **Data Analytics**  and **Data Engineering**
 - Skilled in building **Data Pipelines**, **KPI reports**, interactive **dashboards**, **ML Models** and **delivering actionable insights**  
 - **Domain focus**: IT, Finance and Retail 
 - Passionate about solving **real-world business problems** through **Analytics**
