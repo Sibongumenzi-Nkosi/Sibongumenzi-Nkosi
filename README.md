@@ -24,7 +24,7 @@ Skilled in transforming raw data into actionable insights. Experienced in data c
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
 | **RDBMS & Data Modelling**  | Microsoft SQL Server, star schema |
 | **Big Data & Cloud**| Google Cloud Platform, BigQuery, PySpark, Snowflake, Databricks|
-| **Deployment**  | Git, APIs, Docker |
+| **Deployment**  | Git, Fast API, Docker |
 | **Soft Skills**     | Problem-Solving, Attention to Detail, Communication, Business Accumen, Collaboration |
 
 ---
