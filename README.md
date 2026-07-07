@@ -31,7 +31,7 @@ Skilled in transforming raw data into actionable insights. Experienced in data c
 
 ## Portfolio Projects
 
-### 1️⃣ Superstore Data Pipeline & Analytics Dashboard 
+### 1️ Superstore Data Pipeline & Analytics Dashboard 
 
 **Goal:** Convert messy Superstore CSV files into a clean star schema for analytics. 
 
@@ -43,7 +43,7 @@ Skilled in transforming raw data into actionable insights. Experienced in data c
 
 ---
 
-### 2️⃣ Sales And Revenue Customer Analytics Dashboard   
+### 2️ Sales And Revenue Customer Analytics Dashboard   
 
 **Goal:** Build an analytical reporting system for sales performance and customer behavior.  
 
@@ -55,7 +55,7 @@ Skilled in transforming raw data into actionable insights. Experienced in data c
 
 ---
 
-### 3️⃣ Credit Risk Prediction Model   
+### 3️ Credit Risk Prediction Model   
 
 **Goal:** Developed a pipeline for credit risk prediction, from data cleaning to model deployment and monitoring.  
 
@@ -67,7 +67,7 @@ Skilled in transforming raw data into actionable insights. Experienced in data c
 
 ---
 
-### 4️⃣ Student Performance Analysis & Budget Visualization
+### 4️ Student Performance Analysis & Budget Visualization
 
 **Goal:** Create a clear visual representation of a budget to understand financial allocation.  
 
@@ -98,6 +98,6 @@ Skilled in transforming raw data into actionable insights. Experienced in data c
 - **Email:** csibongumenzi@gmail.com
 ---
 
-> *“I invest in time and always focused.”* — **Sibongumenzi Nkosi**
+> *“I invest in time and always focused.”*
 
 
