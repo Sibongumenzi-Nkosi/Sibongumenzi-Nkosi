@@ -17,15 +17,15 @@ Skilled in transforming raw data into actionable insights. Experienced in data c
 
 | **Category**        | **Technologies / Tools** |
 |---------------------|--------------------------|
-| **Programming**     | Python, SQL , C++|
-| **Data Analysis**   | Advanced Excel, Pandas, NumPy, ETL, EDA |
-| **Data Visualization**| Power BI (DAX), Matplotlib , Seaborn |
+| **Programming**     | Python, SQL , C++ & JavaScript |
+| **Data Analysis**   | Advanced Excel, Pandas, NumPy, ETL & EDA |
+| **Data Visualization**| Power BI (DAX), Matplotlib & Seaborn |
 | **Machine Learning & AI**| Scikit-learn, Neural Networks, AI Ethics & Data Privacy|
 | **Statistics & Probability**| A/B Testing, Hyphothesis Testing, Descriptive & Inferential Statistics |
-| **RDBMS & Data Modelling**  | Microsoft SQL Server, star schema |
-| **Big Data & Cloud**| Google Cloud Platform, BigQuery, PySpark |
-| **Deployment**  | Git, Fast API |
-| **Soft Skills**     | Problem-Solving, Attention to Detail, Communication, Business Accumen, Collaboration |
+| **RDBMS & Data Modelling**  | Microsoft SQL Server & star schema |
+| **Big Data & Cloud**| Google Cloud Platform, BigQuery & PySpark |
+| **Deployment**  | Git & Fast API |
+| **Soft Skills**     | Problem-Solving, Attention to Detail, Communication, Business Accumen & Collaboration |
 
 ---
 
